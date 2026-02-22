@@ -120,5 +120,5 @@ Full-stack expense manager with analytics, charts, and category-based insights.
 ---
 
 ## Connect With Me  
-LinkedIn: [Add your link]  
+LinkedIn: https://www.linkedin.com/in/shabin-george-185522290
 GitHub: https://github.com/shabingeorgeps
