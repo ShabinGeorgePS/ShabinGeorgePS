@@ -1,9 +1,6 @@
 <h1 align="center">Shabin George</h1>
 <h3 align="center">Full-Stack Developer | Cybersecurity Enthusiast | ML & Data Engineering Learner</h3>
 
-<p align="center">
-  <img src="https://i.gifer.com/VAyR.gif" width="450px" alt="coding-gif"/>
-</p>
 
 ---
 
